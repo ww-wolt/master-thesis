@@ -10,7 +10,6 @@ Working Title
 
 [...]
 
-Climate Crisis
 
 
 
@@ -53,13 +52,37 @@ Digital Technology is one of the main drivers of current economic growth.
 
 During the summer semester break I visited the summer camp of the Swiss climate movement in Basel for multiple days as well as a Hackerspace in Schaffhausen for two evenings and the Chaostreff in Berne for one evening.  I talked to a lot of different people and did two formal (recorded) interviews in the Hackerspace Schaffhausen. 
 
+## 3.1 - Climate Camp Basel
+
+![](_media/C0561782-D08E-4E03-89F3-56FBF1773EA6_1_105_c.jpeg)
+![](_media/B357F025-7E90-4AB7-BFCE-E06473F27A29_1_105_c.jpeg)
+![](_media/programm-climatecamp.png)
+
+## 3.2 Hackerspace Odenwilesenz
+
+The Odenwilusenz is an (anarchistic) hackerspace in Schaffhausen that exists since 2007 and relocated to the current place on a meadow near the train station in Beringen in 2017. It is part of the Chaos Computer Club Switzerland.
+
+The structure is made from repurposed containers from a former temporary Volg store in a neighboring village. The hackerspace was built with a lot of volunteer work including leveling the field, installing connections, pipes, sewage systems, electricity, etc., often through DIY efforts. 
+
+A metal staircase leads up to a rooftop terrace on top of the containers. There are two caravans and one container in the garden, which are rented out to members at an very affordable rate for living, working, or workshop / experiment space.
 
 
-**Analysis**
+![](_media/IMG_4078.jpg)
+![](_media/IMG_4086.jpg)
+![](_media/IMG_4089.jpg)
+![](_media/IMG_3979.jpg)
+![](_media/IMG_3978.jpg)
+![](_media/IMG_3983.jpg)
+![](_media/_DSC6375.jpg)
+![](_media/IMG_3982.jpg)
+
+## 3.3 Analysis
 
 In first step of analysis I extracted all topics that came up in the interviews and tried to create a map, which shows me an overview of the complex of themes and visualizes how they are connected. The more connnected topics are the visually closer they appear on my map:
 
-![Topics Mapping](./_media/topics-mapping.png)
+![Topics Mapping](_media/topics-mapping.png)
+
+
 
 ## 4 - Discussion
 
